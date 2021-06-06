@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825992266827",
+    "project_id": "bettermentor-ef348",
+    "storage_bucket": "bettermentor-ef348.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825992266827:android:eea2aacb7257b5197bf9ce",
+        "android_client_info": {
+          "package_name": "uk.ac.soton.ecs.better_mentor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825992266827-d52c9fgfoni70e3gf9faq1ot54q1opco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuHprSbFt3f3B3W_S0LxlqiU_WwfbvFes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825992266827-d52c9fgfoni70e3gf9faq1ot54q1opco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
