@@ -29,7 +29,7 @@ class _SignInState extends State<SignIn> {
         child: ElevatedButton(
           child: Text("Sign in with email"),
             onPressed: () async {
-              dynamic result = await _auth.signInWithEmail(email: "seanjhardy", password: "Warhammer0)");
+              dynamic result = await _auth.signInWithEmail(email: "seanjhardy", password: "TestPassword");
               if(result == null){
                 print("error signing in");
               }else{
